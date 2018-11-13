@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-getmemory",
+  "version": "1.0.0",
+  "description": "Get Android memory information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeryM/cordova-plugin-getmemory.git"
+  },
+  "author": "jery Ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeryM/cordova-plugin-getmemory/issues"
+  },
+  "homepage": "https://github.com/jeryM/cordova-plugin-getmemory#readme"
+}
