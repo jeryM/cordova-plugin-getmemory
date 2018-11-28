@@ -7,7 +7,7 @@
 <platform name="android">
 <config-file parent="/*" target="res/xml/config.xml">
 <feature name="Getmemory">
-<param name="android-package" value="cordova.plugin.getmemory" />
+<param name="android-package" value="cordova.plugin.getmemory.Getmemory" />
 </feature>
 </config-file>
 <config-file parent="/*" target="AndroidManifest.xml">
