@@ -1,2 +1,3 @@
 # cordova-plugin-getmemory
-Get Android memory information
+get android memory information 
+
